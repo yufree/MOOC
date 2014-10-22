@@ -44,11 +44,13 @@
 ## 生物统计数学训练营I（约翰霍普金斯大学）
 
 - [网站](https://class.coursera.org/biostats-002)
+- [github repo](https://github.com/bcaffo/Caffo-Coursera)
 - [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=970405)
 
 ## 生物统计数学训练营II（约翰霍普金斯大学）
 
 - [网站](https://class.coursera.org/biostats2-002)
+- [github repo](https://github.com/bcaffo/MathematicsBiostatisticsBootCamp2)
 - [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971831)
 
 ## 基因组学数据分析（哈佛大学）
