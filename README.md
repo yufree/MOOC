@@ -1,4 +1,4 @@
-﻿
+
 # 课程记录(已完成)
 
 ## 心理学导论（耶鲁大学）
@@ -71,7 +71,7 @@
 
 - [网站](https://class.coursera.org/chemhealth-001)
 - [笔记](http://yufree.github.io/notes/ChemHealth)
-- [认证]()
+- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972340)
 
 ## 老年痴呆与认知神经失调老人护理（约翰霍普金斯大学）
 
