@@ -157,3 +157,7 @@
 ## 机器学习（斯坦福大学）
 
 - [网站](https://class.coursera.org/ml-007)
+
+## 模型思维 (密歇根大学)
+
+- [网站](https://class.coursera.org/modelthinkingzh-001)
