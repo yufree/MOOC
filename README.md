@@ -81,6 +81,7 @@
 ## 人群中的抑郁（约翰霍普金斯大学）
 
 - [网站](https://class.coursera.org/pmhdepression-001)
+- [笔记](http://rpubs.com/yufree/depression)
 - [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971121)
 
 ## 中医药(上海交通大学)
