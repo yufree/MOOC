@@ -148,17 +148,36 @@
 ### 里程碑计划
 
 - [网站](https://class.coursera.org/dsscapstone-001)
-- [认证]()
+- [认证](https://www.coursera.org/account/accomplishments/specialization/VUCPE8CTSWVH)
 - [shiny](http://yufree.shinyapps.io/nlpshiny/)
+
+## 机器学习（斯坦福大学）
+
+- [网站](https://class.coursera.org/ml-007)
+- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972304)
+
+## Linux 入门（Linux 基金会）
+
+- [网站](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info)
+- [总结](http://yufree.github.io/notes/Linuxintro.html)
+- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/d3da5e7709e74a7e885ad643261baaf3/Certificate.pdf)
 
 ---
 
 # 课程纪录（进行中）
 
-## 机器学习（斯坦福大学）
-
-- [网站](https://class.coursera.org/ml-007)
-
 ## 模型思维 (密歇根大学)
 
 - [网站](https://class.coursera.org/modelthinkingzh-001)
+
+## 生命科学中的统计学与R系列课程（哈佛大学）
+
+- [网站](https://courses.edx.org/courses/HarvardX/PH525.1x/1T2015/info)
+
+## 摄影艺术（ RMIT 大学）
+
+- [网站](https://www.open2study.com/courses/the-art-of-photography)
+
+## 流行病学（北卡 Chapel Hill 分校）
+
+- [网站](https://www.coursera.org/learn/epidemiology/outline)
