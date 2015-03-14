@@ -162,6 +162,15 @@
 - [总结](http://yufree.github.io/notes/Linuxintro.html)
 - [认证](https://s3.amazonaws.com/verify.edx.org/downloads/d3da5e7709e74a7e885ad643261baaf3/Certificate.pdf)
 
+## 摄影艺术（ RMIT 大学）
+
+- [网站](https://www.open2study.com/courses/the-art-of-photography)
+- [认证](https://learn.open2study.com/mod/certificate/view.php?id=64587&action=get)
+
+## 流行病学（北卡 Chapel Hill 分校）
+
+- [网站](https://www.coursera.org/learn/epidemiology/outline)
+
 ---
 
 # 课程纪录（进行中）
@@ -174,10 +183,10 @@
 
 - [网站](https://courses.edx.org/courses/HarvardX/PH525.1x/1T2015/info)
 
-## 摄影艺术（ RMIT 大学）
+## 中国古代史（北京大学）
 
-- [网站](https://www.open2study.com/courses/the-art-of-photography)
+- [网站](https://courses.edx.org/courses/course-v1:PekingX+02132750x+2015T1/info)
 
-## 流行病学（北卡 Chapel Hill 分校）
+## 生物信息学方法（多伦多大学）
 
-- [网站](https://www.coursera.org/learn/epidemiology/outline)
+- [网站](https://www.coursera.org/learn/bioinformatics-methods-1/lecture/gnPjk/lecture)
