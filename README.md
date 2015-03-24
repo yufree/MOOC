@@ -167,17 +167,18 @@
 - [网站](https://www.open2study.com/courses/the-art-of-photography)
 - [认证](https://learn.open2study.com/mod/certificate/view.php?id=64587&action=get)
 
-## 流行病学（北卡 Chapel Hill 分校）
+## 流行病学（北卡教堂山分校）
 
 - [网站](https://www.coursera.org/learn/epidemiology/outline)
-
----
-
-# 课程纪录（进行中）
 
 ## 模型思维 (密歇根大学)
 
 - [网站](https://class.coursera.org/modelthinkingzh-001)
+- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=974259)
+
+---
+
+# 课程纪录（进行中）
 
 ## 生命科学中的统计学与R系列课程（哈佛大学）
 
