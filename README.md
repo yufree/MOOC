@@ -1,16 +1,9 @@
-
 # 课程记录(已完成)
 
-## 心理学导论（耶鲁大学）
+## 机器学习（斯坦福大学）
 
-- [网站](http://v.163.com/special/sp/introductiontopsychology.html)
-- [笔记](http://rpubs.com/yufree/psychologyintro)
-
-## 科研写作（斯坦福大学）
-
-- [网站](https://class.coursera.org/sciwrite-2012-001)
-- [笔记](http://yufree.github.com/blogcn/2013/11/20/write-in-english.html)
-- [笔记](http://yufree.github.io/blogcn/2013/11/20/write-in-english-e.html)
+- [网站](https://class.coursera.org/ml-007)
+- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972304)
 
 ## 统计学习（斯坦福大学）
 
@@ -19,76 +12,17 @@
 - [笔记](http://cos.name/cn/topic/152762)
 - [认证](https://verify.class.stanford.edu/SOA/987294bf0d614744a545653c53aa11e4/)
 
+## 大数据机器学习（加州伯克利）
+
+- [网站](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info)
+- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/d96cf2e614894e2e8138c4c5c3dc973b/Certificate.pdf)
+
 ## 数据分析（约翰霍普金斯大学）
 
 - [网站](https://www.coursera.org/course/dataanalysis)
 - [github repo](https://github.com/jtleek/dataanalysis)
 - [笔记](http://yufree.github.io/blogcn/2013/08/21/da-coursera.html)
 - [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=294)
-
-## 计算图形学（佐治亚理工）
-
-- [网站](https://class.coursera.org/compphoto-001)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=362)
-
-## 数据分析计算（约翰霍普金斯大学）
-
-- [网站](https://class.coursera.org/compdata-003)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=970940)
-
-## 基于案例的生物统计导论（约翰霍普金斯大学）
-
-- [网站](https://class.coursera.org/casebasedbiostat-001)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=970762)
-
-## 生物统计数学训练营I（约翰霍普金斯大学）
-
-- [网站](https://class.coursera.org/biostats-002)
-- [github repo](https://github.com/bcaffo/Caffo-Coursera)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=970405)
-
-## 生物统计数学训练营II（约翰霍普金斯大学）
-
-- [网站](https://class.coursera.org/biostats2-002)
-- [github repo](https://github.com/bcaffo/MathematicsBiostatisticsBootCamp2)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971831)
-
-## 基因组学数据分析（哈佛大学）
-
-- [网站](https://www.edx.org/course/harvardx/harvardx-ph525x-data-analysis-genomics-1401)
-- [github repo](http://genomicsclass.github.io/book/)
-- [笔记](http://rpubs.com/yufree/Genomics)
-- [认证](https://verify.edx.org/cert/d4ee61d35e744190b0097a0e365e82a6)
-
-
-## 生物信息学：你电脑上的生命科学（约翰霍普金斯大学）
-
-- [网站](https://class.coursera.org/bioinform-001)
-- [笔记](http://rpubs.com/yufree/Bioinformatics)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971936)
-
-## 化学品与生活（约翰霍普金斯大学）
-
-- [网站](https://class.coursera.org/chemhealth-001)
-- [笔记](http://yufree.github.io/notes/ChemHealth)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972340)
-
-## 老年痴呆与认知神经失调老人护理（约翰霍普金斯大学）
-
-- [网站](https://class.coursera.org/dementiacare-001)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971232)
-
-## 人群中的抑郁（约翰霍普金斯大学）
-
-- [网站](https://class.coursera.org/pmhdepression-001)
-- [笔记](http://rpubs.com/yufree/depression)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971121)
-
-## 中医药(上海交通大学)
-
-- [网站](https://class.coursera.org/sjtubm901-001)
-- [笔记](http://yufree.github.io/notes/tcm)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971769)
 
 ## 数据科学系列课程（约翰霍普金斯大学）
 
@@ -151,32 +85,12 @@
 - [认证](https://www.coursera.org/account/accomplishments/specialization/VUCPE8CTSWVH)
 - [shiny](http://yufree.shinyapps.io/nlpshiny/)
 
-## 机器学习（斯坦福大学）
+## 基因组学数据分析（哈佛大学）
 
-- [网站](https://class.coursera.org/ml-007)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972304)
-
-## Linux 入门（Linux 基金会）
-
-- [网站](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info)
-- [总结](http://yufree.github.io/notes/Linuxintro.html)
-- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/d3da5e7709e74a7e885ad643261baaf3/Certificate.pdf)
-
-## 摄影艺术（ RMIT 大学）
-
-- [网站](https://www.open2study.com/courses/the-art-of-photography)
-- [认证](https://learn.open2study.com/mod/certificate/view.php?id=64587&action=get)
-
-## 流行病学（北卡教堂山分校&波士顿大学）
-
-- [网站](https://www.coursera.org/learn/epidemiology/outline)
-- [网站](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/Modules_Menu.html)
-- [笔记](http://yufree.cn/notes/epidemiologyintro.html#)
-
-## 模型思维 (密歇根大学)
-
-- [网站](https://class.coursera.org/modelthinkingzh-001)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=974259)
+- [网站](https://www.edx.org/course/harvardx/harvardx-ph525x-data-analysis-genomics-1401)
+- [github repo](http://genomicsclass.github.io/book/)
+- [笔记](http://rpubs.com/yufree/Genomics)
+- [认证](https://verify.edx.org/cert/d4ee61d35e744190b0097a0e365e82a6)
 
 ## 生命科学中的统计学与R系列课程（哈佛大学）
 
@@ -208,16 +122,100 @@
 - [网站](https://courses.edx.org/courses/HarvardX/PH525.5x/1T2015/info)
 - [认证](https://s3.amazonaws.com/verify.edx.org/downloads/6a32e7c9228140d6a49d5ac666b61891/Certificate.pdf)
 
+## 流行病学（北卡教堂山分校&波士顿大学）
+
+- [网站](https://www.coursera.org/learn/epidemiology/outline)
+- [网站](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/Modules_Menu.html)
+- [笔记](http://yufree.cn/notes/epidemiologyintro.html#)
+
+## 计算图形学（佐治亚理工）
+
+- [网站](https://class.coursera.org/compphoto-001)
+- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=362)
+
+## 数据分析计算（约翰霍普金斯大学）
+
+- [网站](https://class.coursera.org/compdata-003)
+- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=970940)
+
+## 基于案例的生物统计导论（约翰霍普金斯大学）
+
+- [网站](https://class.coursera.org/casebasedbiostat-001)
+- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=970762)
+
+## 生物统计数学训练营I（约翰霍普金斯大学）
+
+- [网站](https://class.coursera.org/biostats-002)
+- [github repo](https://github.com/bcaffo/Caffo-Coursera)
+- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=970405)
+
+## 生物统计数学训练营II（约翰霍普金斯大学）
+
+- [网站](https://class.coursera.org/biostats2-002)
+- [github repo](https://github.com/bcaffo/MathematicsBiostatisticsBootCamp2)
+- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971831)
+
+## 生物信息学：你电脑上的生命科学（约翰霍普金斯大学）
+
+- [网站](https://class.coursera.org/bioinform-001)
+- [笔记](http://rpubs.com/yufree/Bioinformatics)
+- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971936)
+
+## 化学品与生活（约翰霍普金斯大学）
+
+- [网站](https://class.coursera.org/chemhealth-001)
+- [笔记](http://yufree.github.io/notes/ChemHealth)
+- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972340)
+
+## 老年痴呆与认知神经失调老人护理（约翰霍普金斯大学）
+
+- [网站](https://class.coursera.org/dementiacare-001)
+- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971232)
+
+## 人群中的抑郁（约翰霍普金斯大学）
+
+- [网站](https://class.coursera.org/pmhdepression-001)
+- [笔记](http://rpubs.com/yufree/depression)
+- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971121)
+
+## 心理学导论（耶鲁大学）
+
+- [网站](http://v.163.com/special/sp/introductiontopsychology.html)
+- [笔记](http://rpubs.com/yufree/psychologyintro)
+
+## Linux 入门（Linux 基金会）
+
+- [网站](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info)
+- [总结](http://yufree.github.io/notes/Linuxintro.html)
+- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/d3da5e7709e74a7e885ad643261baaf3/Certificate.pdf)
+
+## 摄影艺术（ RMIT 大学）
+
+- [网站](https://www.open2study.com/courses/the-art-of-photography)
+- [认证](https://learn.open2study.com/mod/certificate/view.php?id=64587&action=get)
+
+## 科研写作（斯坦福大学）
+
+- [网站](https://class.coursera.org/sciwrite-2012-001)
+- [笔记](http://yufree.github.com/blogcn/2013/11/20/write-in-english.html)
+- [笔记](http://yufree.github.io/blogcn/2013/11/20/write-in-english-e.html)
+
+## 模型思维 (密歇根大学)
+
+- [网站](https://class.coursera.org/modelthinkingzh-001)
+- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=974259)
+
 ## 中国古代史（北京大学）
 
 - [网站](https://courses.edx.org/courses/course-v1:PekingX+02132750x+2015T1/info)
 - [笔记](http://yufree.cn/notes/historyCN.html)
 - [认证](https://s3.amazonaws.com/verify.edx.org/downloads/ea0895f28b4f4405a3e7c4d8f431ec66/Certificate.pdf)
 
-## 大数据机器学习（加州伯克利）
+## 中医药(上海交通大学)
 
-- [网站](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info)
-- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/d96cf2e614894e2e8138c4c5c3dc973b/Certificate.pdf)
+- [网站](https://class.coursera.org/sjtubm901-001)
+- [笔记](http://yufree.github.io/notes/tcm)
+- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971769)
 
 ---
 
