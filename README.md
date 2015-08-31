@@ -167,27 +167,63 @@
 - [网站](https://www.open2study.com/courses/the-art-of-photography)
 - [认证](https://learn.open2study.com/mod/certificate/view.php?id=64587&action=get)
 
-## 流行病学（北卡教堂山分校）
+## 流行病学（北卡教堂山分校&波士顿大学）
 
 - [网站](https://www.coursera.org/learn/epidemiology/outline)
+- [网站](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/Modules_Menu.html)
+- [笔记](http://yufree.cn/notes/epidemiologyintro.html#)
 
 ## 模型思维 (密歇根大学)
 
 - [网站](https://class.coursera.org/modelthinkingzh-001)
 - [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=974259)
 
----
-
-# 课程纪录（进行中）
-
 ## 生命科学中的统计学与R系列课程（哈佛大学）
 
 - [网站](https://courses.edx.org/courses/HarvardX/PH525.1x/1T2015/info)
+- [github repo](https://github.com/yufree/PH525)
+
+### 生命科学中统计学与R
+
+- [网站](https://courses.edx.org/courses/HarvardX/PH525.1x/1T2015/info)
+- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/c147c4c3dee14e42b7902b0b6327890d/Certificate.pdf)
+
+### 矩阵算法与线性模型
+
+- [网站](https://courses.edx.org/courses/HarvardX/PH525.2x/1T2015/info)
+- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/0a0185fe89a24e95968a1a0636ee2053/Certificate.pdf)
+
+### 生命科学中的高级统计学
+
+- [网站](https://courses.edx.org/courses/HarvardX/PH525.3x/1T2015/info)
+- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/1af197a5a8a04aabbb5af53c24abb051/Certificate.pdf)
+
+### Bioconductor导论
+
+- [网站](https://courses.edx.org/courses/HarvardX/PH525.4x/1T2015/info)
+- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/4c3a45312a5c427a8ceafa86d61f2f5d/Certificate.pdf)
+
+### 案例：RNA测序分析
+
+- [网站](https://courses.edx.org/courses/HarvardX/PH525.5x/1T2015/info)
+- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/6a32e7c9228140d6a49d5ac666b61891/Certificate.pdf)
 
 ## 中国古代史（北京大学）
 
 - [网站](https://courses.edx.org/courses/course-v1:PekingX+02132750x+2015T1/info)
+- [笔记](http://yufree.cn/notes/historyCN.html)
+- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/ea0895f28b4f4405a3e7c4d8f431ec66/Certificate.pdf)
 
-## 生物信息学方法（多伦多大学）
+## 大数据机器学习（加州伯克利）
 
-- [网站](https://www.coursera.org/learn/bioinformatics-methods-1/lecture/gnPjk/lecture)
+- [网站](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info)
+- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/d96cf2e614894e2e8138c4c5c3dc973b/Certificate.pdf)
+
+---
+
+# 课程纪录（进行中）
+
+---
+
+- 共计学习并完成公开课37门
+- 认证34门
