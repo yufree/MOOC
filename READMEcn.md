@@ -1,9 +1,9 @@
-# MOOCs(Completed)
+# 课程记录(已完成)
 
-## Machine Learning(Stanford University)
+## 机器学习（斯坦福大学）
 
-- [Website](https://class.coursera.org/ml-007)
-- [Statement of Accomplishment](https://yufree.cn/MOOC/Coursera ml 2015.pdf)
+- [网站](https://class.coursera.org/ml-007)
+- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972304)
 
 ## 统计学习（斯坦福大学）
 
@@ -217,3 +217,11 @@
 - [笔记](http://yufree.github.io/notes/tcm)
 - [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971769)
 
+---
+
+# 课程纪录（进行中）
+
+---
+
+- 共计学习并完成公开课37门
+- 认证34门

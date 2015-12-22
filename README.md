@@ -1,227 +1,219 @@
-# 课程记录(已完成)
+# MOOCs(Completed)
 
-## 机器学习（斯坦福大学）
+## Machine Learning(Stanford University)
 
-- [网站](https://class.coursera.org/ml-007)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972304)
+- [Website](https://class.coursera.org/ml-007)
+- [Statement of Accomplishment](https://www.dropbox.com/s/nn82ls604iowhjv/Coursera%20ml%202015.pdf?dl=0)
 
-## 统计学习（斯坦福大学）
+## Statistical Learning(Stanford University)
 
-- [网站](https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/info)
-- [习题解答](https://github.com/asadoughi/stat-learning)
-- [笔记](http://cos.name/cn/topic/152762)
-- [认证](https://verify.class.stanford.edu/SOA/987294bf0d614744a545653c53aa11e4/)
+- [Website](https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/info)
+- [Notes](http://cos.name/cn/topic/152762)
+- [Statement of Accomplishment](https://www.dropbox.com/s/s81lpi31zqrqfax/EdxslCertificate.pdf?dl=0)
 
-## 大数据机器学习（加州伯克利）
+## Scalable Machine Learning(UC Berkeley)
 
-- [网站](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info)
-- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/d96cf2e614894e2e8138c4c5c3dc973b/Certificate.pdf)
+- [Website](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info)
+- [Statement of Accomplishment](https://www.dropbox.com/s/7ed5j2uiems4iio/EdxsmlCertificate.pdf?dl=0)
 
-## 数据分析（约翰霍普金斯大学）
+## Data Analysis(Johns Hopkins University)
 
-- [网站](https://www.coursera.org/course/dataanalysis)
-- [github repo](https://github.com/jtleek/dataanalysis)
-- [笔记](http://yufree.github.io/blogcn/2013/08/21/da-coursera.html)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=294)
+- [Wedsite](https://www.coursera.org/course/dataanalysis)
+- [Github repo](https://github.com/jtleek/dataanalysis)
+- [Notes](http://yufree.github.io/blogcn/2013/08/21/da-coursera.html)
+- [Statement of Accomplishment](https://www.dropbox.com/s/rt9edgxqtnolvb6/Coursera%20dataanalysis%202015.pdf?dl=0)
 
-## 数据科学系列课程（约翰霍普金斯大学）
+## Data Science Specialization(Johns Hopkins University)
 
-- [网站](https://www.coursera.org/specialization/jhudatascience/1)
-- [github repo](https://github.com/DataScienceSpecialization/courses)
-- [笔记1-2](http://rpubs.com/yufree/DSpart1)
-- [笔记3](http://rpubs.com/yufree/DSpart2)
-- [笔记4-5](http://rpubs.com/yufree/DSpart3)
-- [笔记6](http://rpubs.com/yufree/DSpart4)
-- [笔记7-9](http://rpubs.com/yufree/DSpart5)
+- [Websites](https://www.coursera.org/specialization/jhudatascience/1)
+- [Github repo](https://github.com/DataScienceSpecialization/courses)
+- [Statement of Accomplishment](https://www.coursera.org/account/accomplishments/specialization/certificate/VUCPE8CTSWVH)
+- [Notes 1-2](http://rpubs.com/yufree/DSpart1)
+- [Notes 3](http://rpubs.com/yufree/DSpart2)
+- [Notes 4-5](http://rpubs.com/yufree/DSpart3)
+- [Notes 6](http://rpubs.com/yufree/DSpart4)
+- [Notes 7-9](http://rpubs.com/yufree/DSpart5)
 
-### 数据科学家工具箱
+### The Data Scientist’s Toolbox
 
-- [网站](https://class.coursera.org/datascitoolbox-002)
-- [认证](https://www.coursera.org/verify/MQQRRYLUXB)
+- [Website](https://class.coursera.org/datascitoolbox-002)
+- [Statement of Accomplishment](https://www.coursera.org/verify/MQQRRYLUXB)
 
-### R语言编程
+### R Programming
 
-- [网站](https://class.coursera.org/rprog-002)
-- [认证](https://www.coursera.org/verify/XBKNR4XAYZ)
+- [Website](https://class.coursera.org/rprog-002)
+- [Statement of Accomplishment](https://www.coursera.org/verify/XBKNR4XAYZ)
 
-### 获取与清洗数据
+### Getting and Cleaning Data
 
-- [网站](https://class.coursera.org/getdata-002)
-- [认证](https://www.coursera.org/verify/27FQR46UEA)
+- [Website](https://class.coursera.org/getdata-002)
+- [Statement of Accomplishment](https://www.coursera.org/verify/27FQR46UEA)
 
-### 探索性数据分析
+### Exploratory Data Analysis
 
-- [网站](https://class.coursera.org/exdata-002)
-- [认证](https://www.coursera.org/verify/RR4SQ5W9UH)
+- [Website](https://class.coursera.org/exdata-002)
+- [Statement of Accomplishment](https://www.coursera.org/verify/RR4SQ5W9UH)
 
-### 可复算性研究
+### Reproducible Research
 
-- [网站](https://class.coursera.org/repdata-002)
-- [认证](https://www.coursera.org/verify/NKWWHKT96P)
+- [Website](https://class.coursera.org/repdata-002)
+- [Statement of Accomplishment](https://www.coursera.org/verify/NKWWHKT96P)
 
-### 统计推断
+### Statistical Inference
 
-- [网站](https://class.coursera.org/statinference-002)
-- [认证](https://www.coursera.org/verify/UD498B4PVN)
+- [Website](https://class.coursera.org/statinference-002)
+- [Statement of Accomplishment](https://www.coursera.org/verify/UD498B4PVN)
 
-### 回归模型
+### Regression Models
 
-- [网站](https://class.coursera.org/regmods-002)
-- [认证](https://www.coursera.org/verify/PXSG8UXGRT)
+- [Website](https://class.coursera.org/regmods-002)
+- [Statement of Accomplishment](https://www.coursera.org/verify/PXSG8UXGRT)
 
-### 实践机器学习
+### Practical Machine Learning
 
-- [网站](https://class.coursera.org/predmachlearn-002)
-- [认证](https://www.coursera.org/verify/X28WWHDYVN)
+- [Website](https://class.coursera.org/predmachlearn-002)
+- [Statement of Accomplishment](https://www.coursera.org/verify/X28WWHDYVN)
 
-### 开发数据产品
+### Developing Data Products
 
-- [网站](https://class.coursera.org/devdataprod-002)
-- [认证](https://www.coursera.org/verify/GKNPGMES3E)
+- [Website](https://class.coursera.org/devdataprod-002)
+- [Statement of Accomplishment](https://www.coursera.org/verify/GKNPGMES3E)
 
-### 里程碑计划
+### Data Science Capstone
 
-- [网站](https://class.coursera.org/dsscapstone-001)
-- [认证](https://www.coursera.org/account/accomplishments/specialization/VUCPE8CTSWVH)
+- [Website](https://class.coursera.org/dsscapstone-001)
+- [Statement of Accomplishment](https://www.coursera.org/account/accomplishments/specialization/VUCPE8CTSWVH)
 - [shiny](http://yufree.shinyapps.io/nlpshiny/)
 
-## 基因组学数据分析（哈佛大学）
+## Data Analysis for Genomics(Harvard University)
 
-- [网站](https://www.edx.org/course/harvardx/harvardx-ph525x-data-analysis-genomics-1401)
-- [github repo](http://genomicsclass.github.io/book/)
-- [笔记](http://rpubs.com/yufree/Genomics)
-- [认证](https://verify.edx.org/cert/d4ee61d35e744190b0097a0e365e82a6)
+- [Website](https://www.edx.org/course/harvardx/harvardx-ph525x-data-analysis-genomics-1401)
+- [Github repo](http://genomicsclass.github.io/book/)
+- [Notes](http://rpubs.com/yufree/Genomics)
+- [Statement of Accomplishment](https://verify.edx.org/cert/d4ee61d35e744190b0097a0e365e82a6)
 
-## 生命科学中的统计学与R系列课程（哈佛大学）
+## Data Analysis for Life Sciences(Harvard University)
 
-- [网站](https://courses.edx.org/courses/HarvardX/PH525.1x/1T2015/info)
-- [github repo](https://github.com/yufree/PH525)
+- [Website](https://courses.edx.org/courses/HarvardX/PH525.1x/1T2015/info)
+- [Github repo](https://github.com/yufree/PH525)
 
-### 生命科学中统计学与R
+### Statistics and R for the Life Sciences
 
-- [网站](https://courses.edx.org/courses/HarvardX/PH525.1x/1T2015/info)
-- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/c147c4c3dee14e42b7902b0b6327890d/Certificate.pdf)
+- [Website](https://courses.edx.org/courses/HarvardX/PH525.1x/1T2015/info)
+- [Statement of Accomplishment](https://s3.amazonaws.com/verify.edx.org/downloads/c147c4c3dee14e42b7902b0b6327890d/Certificate.pdf)
 
-### 矩阵算法与线性模型
+### Introduction to Linear Models and Matrix Algebra
 
-- [网站](https://courses.edx.org/courses/HarvardX/PH525.2x/1T2015/info)
-- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/0a0185fe89a24e95968a1a0636ee2053/Certificate.pdf)
+- [Website](https://courses.edx.org/courses/HarvardX/PH525.2x/1T2015/info)
+- [Statement of Accomplishment](https://s3.amazonaws.com/verify.edx.org/downloads/0a0185fe89a24e95968a1a0636ee2053/Certificate.pdf)
 
-### 生命科学中的高级统计学
+### Advanced Statistics for the Life Sciences
 
-- [网站](https://courses.edx.org/courses/HarvardX/PH525.3x/1T2015/info)
-- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/1af197a5a8a04aabbb5af53c24abb051/Certificate.pdf)
+- [Website](https://courses.edx.org/courses/HarvardX/PH525.3x/1T2015/info)
+- [Statement of Accomplishment](https://s3.amazonaws.com/verify.edx.org/downloads/1af197a5a8a04aabbb5af53c24abb051/Certificate.pdf)
 
-### Bioconductor导论
+### Introduction to Bioconductor
 
-- [网站](https://courses.edx.org/courses/HarvardX/PH525.4x/1T2015/info)
-- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/4c3a45312a5c427a8ceafa86d61f2f5d/Certificate.pdf)
+- [Website](https://courses.edx.org/courses/HarvardX/PH525.4x/1T2015/info)
+- [Statement of Accomplishment](https://s3.amazonaws.com/verify.edx.org/downloads/4c3a45312a5c427a8ceafa86d61f2f5d/Certificate.pdf)
 
-### 案例：RNA测序分析
+### Case study: RNA-seq data analysis
 
-- [网站](https://courses.edx.org/courses/HarvardX/PH525.5x/1T2015/info)
-- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/6a32e7c9228140d6a49d5ac666b61891/Certificate.pdf)
+- [Website](https://courses.edx.org/courses/HarvardX/PH525.5x/1T2015/info)
+- [Statement of Accomplishment](https://s3.amazonaws.com/verify.edx.org/downloads/6a32e7c9228140d6a49d5ac666b61891/Certificate.pdf)
 
-## 流行病学（北卡教堂山分校&波士顿大学）
+## Epidemiology (University of North Carolina at Chapel Hill & Boston University)
 
-- [网站](https://www.coursera.org/learn/epidemiology/outline)
-- [网站](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/Modules_Menu.html)
-- [笔记](http://yufree.cn/notes/epidemiologyintro.html#)
+- [Website](https://www.coursera.org/learn/epidemiology/outline)
+- [Website](http://sphweb.bumc.bu.edu/otlt/mph-modules/menu/)
+- [Notes](http://yufree.cn/notes/epidemiologyintro.html#)
 
-## 计算图形学（佐治亚理工）
+## Computational Photography(Georgia Institute of Technology)
 
-- [网站](https://class.coursera.org/compphoto-001)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=362)
+- [Website](https://class.coursera.org/compphoto-001)
+- [Statement of Accomplishment](https://www.dropbox.com/s/zd8htgmi299c3az/Coursera%20compphoto%202015.pdf?dl=0)
 
-## 数据分析计算（约翰霍普金斯大学）
+## Computing for Data Analysis(Johns Hopkins University)
 
-- [网站](https://class.coursera.org/compdata-003)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=970940)
+- [Website](https://class.coursera.org/compdata-003)
+- [Statement of Accomplishment](https://www.dropbox.com/s/qrswsd5f2525wng/Coursera%20compdata%202015.pdf?dl=0)
 
-## 基于案例的生物统计导论（约翰霍普金斯大学）
+## Case-Based Introduction to Biostatistics(Johns Hopkins University)
 
-- [网站](https://class.coursera.org/casebasedbiostat-001)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=970762)
+- [Website](https://class.coursera.org/casebasedbiostat-001)
+- [Statement of Accomplishment](https://www.dropbox.com/s/2lxs6czlw1drwcz/Coursera%20casebasedbiostat%202015.pdf?dl=0)
 
-## 生物统计数学训练营I（约翰霍普金斯大学）
+## Mathematical Biostatistics Boot Camp I(Johns Hopkins University)
 
-- [网站](https://class.coursera.org/biostats-002)
-- [github repo](https://github.com/bcaffo/Caffo-Coursera)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=970405)
+- [Website](https://class.coursera.org/biostats-002)
+- [Github repo](https://github.com/bcaffo/Caffo-Coursera)
+- [Statement of Accomplishment](https://www.dropbox.com/s/keg4c2nhu1khpe1/Coursera%20biostats%202015.pdf?dl=0)
 
-## 生物统计数学训练营II（约翰霍普金斯大学）
+## Mathematical Biostatistics Boot Camp II(Johns Hopkins University)
 
-- [网站](https://class.coursera.org/biostats2-002)
-- [github repo](https://github.com/bcaffo/MathematicsBiostatisticsBootCamp2)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971831)
+- [Website](https://class.coursera.org/biostats2-002)
+- [Github repo](https://github.com/bcaffo/MathematicsBiostatisticsBootCamp2)
+- [Statement of Accomplishment](https://www.dropbox.com/s/0yn25sq5y7ev8xx/Coursera%20biostats2%202015.pdf?dl=0)
 
-## 生物信息学：你电脑上的生命科学（约翰霍普金斯大学）
+## Bioinformatics: Life Sciences on Your Computer(Johns Hopkins University)
 
-- [网站](https://class.coursera.org/bioinform-001)
-- [笔记](http://rpubs.com/yufree/Bioinformatics)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971936)
+- [Website](https://class.coursera.org/bioinform-001)
+- [Notes](http://rpubs.com/yufree/Bioinformatics)
+- [Statement of Accomplishment](https://www.dropbox.com/s/ykqcrgx3htmpnh0/Coursera%20bioinform%202015.pdf?dl=0)
 
-## 化学品与生活（约翰霍普金斯大学）
+## Chemicals and Health(Johns Hopkins University)
 
-- [网站](https://class.coursera.org/chemhealth-001)
-- [笔记](http://yufree.github.io/notes/ChemHealth)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972340)
+- [Website](https://class.coursera.org/chemhealth-001)
+- [Notes](http://yufree.github.io/notes/ChemHealth)
+- [Statement of Accomplishment](https://www.dropbox.com/s/tbybgnip0ut5h9y/Coursera%20chemhealth%202015.pdf?dl=0)
 
-## 老年痴呆与认知神经失调老人护理（约翰霍普金斯大学）
+## Living with Dementia: Impact on Individuals, Caregivers, Communities and Societies(Johns Hopkins University)
 
-- [网站](https://class.coursera.org/dementiacare-001)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971232)
+- [Website](https://class.coursera.org/dementiacare-001)
+- [Statement of Accomplishment](https://www.dropbox.com/s/c4vwz7hq2vpgcm6/Coursera%20dementiacare%202015.pdf?dl=0)
 
-## 人群中的抑郁（约翰霍普金斯大学）
+## Major Depression in the Population: A Public Health Approach(Johns Hopkins University)
 
-- [网站](https://class.coursera.org/pmhdepression-001)
-- [笔记](http://rpubs.com/yufree/depression)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971121)
+- [Website](https://class.coursera.org/pmhdepression-001)
+- [Notes](http://rpubs.com/yufree/depression)
+- [Statement of Accomplishment](https://www.dropbox.com/s/obk97ss07mi9hec/Coursera%20pmhdepression%202015.pdf?dl=0)
 
-## 心理学导论（耶鲁大学）
+## Introduction to Psychology(Yale University)
 
-- [网站](http://v.163.com/special/sp/introductiontopsychology.html)
-- [笔记](http://rpubs.com/yufree/psychologyintro)
+- [Website](http://oyc.yale.edu/psychology/psyc-110)
+- [Notes](http://rpubs.com/yufree/psychologyintro)
 
-## Linux 入门（Linux 基金会）
+## Introduction to Linux(The Linux Foundation)
 
-- [网站](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info)
-- [总结](http://yufree.github.io/notes/Linuxintro.html)
-- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/d3da5e7709e74a7e885ad643261baaf3/Certificate.pdf)
+- [Website](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info)
+- [Notes](http://yufree.github.io/notes/Linuxintro.html)
+- [Statement of Accomplishment](https://s3.amazonaws.com/verify.edx.org/downloads/d3da5e7709e74a7e885ad643261baaf3/Certificate.pdf)
 
-## 摄影艺术（ RMIT 大学）
+## The Art of Photography(RMIT University)
 
-- [网站](https://www.open2study.com/courses/the-art-of-photography)
-- [认证](https://learn.open2study.com/mod/certificate/view.php?id=64587&action=get)
+- [Website](https://www.open2study.com/courses/the-art-of-photography)
+- [Statement of Accomplishment](https://www.dropbox.com/s/rlojogmiqtok0r7/Subject_Certificate_03_March_2015.pdf?dl=0)
 
-## 科研写作（斯坦福大学）
+## Writing in the Sciences(Stanford University)
 
-- [网站](https://class.coursera.org/sciwrite-2012-001)
-- [笔记](http://yufree.github.com/blogcn/2013/11/20/write-in-english.html)
-- [笔记](http://yufree.github.io/blogcn/2013/11/20/write-in-english-e.html)
+- [Website](https://class.coursera.org/sciwrite-2012-001)
+- [Notes](http://yufree.github.com/blogcn/2013/11/20/write-in-english.html)
+- [Notes](http://yufree.github.io/blogcn/2013/11/20/write-in-english-e.html)
 
-## 模型思维 (密歇根大学)
+## Model Thinking(University of Michigan) 
 
-- [网站](https://class.coursera.org/modelthinkingzh-001)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=974259)
+- [Website](https://class.coursera.org/modelthinkingzh-001)
+- [Statement of Accomplishment](https://www.dropbox.com/s/zgqq9exrbwqowfk/Coursera%20modelthinkingzh%202015.pdf?dl=0)
 
-## 中国古代史（北京大学）
+## Ancient History of China(Peking University)
 
-- [网站](https://courses.edx.org/courses/course-v1:PekingX+02132750x+2015T1/info)
-- [笔记](http://yufree.cn/notes/historyCN.html)
-- [认证](https://s3.amazonaws.com/verify.edx.org/downloads/ea0895f28b4f4405a3e7c4d8f431ec66/Certificate.pdf)
+- [Website](https://courses.edx.org/courses/course-v1:PekingX+02132750x+2015T1/info)
+- [Notes](http://yufree.cn/notes/historyCN.html)
+- [Statement of Accomplishment](https://s3.amazonaws.com/verify.edx.org/downloads/ea0895f28b4f4405a3e7c4d8f431ec66/Certificate.pdf)
 
-## 中医药(上海交通大学)
+## Traditional Chinese Medicine and Chinese Culture(Shanghai Jiao Tong University)
 
-- [网站](https://class.coursera.org/sjtubm901-001)
-- [笔记](http://yufree.github.io/notes/tcm)
-- [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971769)
+- [Website](https://class.coursera.org/sjtubm901-001)
+- [Notes](http://yufree.github.io/notes/tcm)
+- [Statement of Accomplishment](https://www.dropbox.com/s/6ycgcl6b8talu6o/Coursera%20sjtubm901%202015.pdf?dl=0)
 
----
-
-# 课程纪录（进行中）
-
----
-
-- 共计学习并完成公开课37门
-- 认证34门
