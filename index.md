@@ -3,7 +3,7 @@
 ## Machine Learning(Stanford University)
 
 - [Website](https://class.coursera.org/ml-007)
-- [Statement of Accomplishment](http://yufree.cn/MOOC/Coursera ml 2015.pdf)
+- [Statement of Accomplishment](https://yufree.cn/MOOC/Coursera ml 2015.pdf)
 
 ## 统计学习（斯坦福大学）
 
