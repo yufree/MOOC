@@ -231,8 +231,15 @@
 
 # 课程纪录（进行中）
 
+## Basic Life Support (BLS)
+
+- [网站](https://courses.edx.org/courses/course-v1:SaveALifeX+BLS101x+3T2015/info)
+
+## 互联网历史、技术与安全（密歇根大学）
+
+- [网站](https://www.coursera.org/learn/internet-history/home/welcome)
 
 ---
 
-- 共计学习并完成公开课38门
-- 认证34门
+- 共计学习并完成公开课39门
+- 获得认证36门
