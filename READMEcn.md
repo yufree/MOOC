@@ -17,6 +17,16 @@
 - [网站](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info)
 - [认证](https://s3.amazonaws.com/verify.edx.org/downloads/d96cf2e614894e2e8138c4c5c3dc973b/Certificate.pdf)
 
+## 计算机科学导论与python编程（麻省理工学院）
+
+- [网站](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/info)
+- [认证](https://courses.edx.org/certificates/1de4c32e7eb247aa808e91b71e1f8e6d)
+
+## 可编程思维导论与数据科学（麻省理工学院）
+
+- [网站](https://courses.edx.org/courses/course-v1:MITx+6.00.2x_4+3T2015/info)
+- [认证](https://courses.edx.org/certificates/36b306a49b0c4f1eab62f7e66ba18d9f)
+
 ## 数据分析（约翰霍普金斯大学）
 
 - [网站](https://www.coursera.org/course/dataanalysis)
@@ -221,7 +231,8 @@
 
 # 课程纪录（进行中）
 
+
 ---
 
-- 共计学习并完成公开课37门
+- 共计学习并完成公开课38门
 - 认证34门
