@@ -215,6 +215,10 @@
 - [Website](https://class.coursera.org/modelthinkingzh-001)
 - [Statement of Accomplishment](https://www.dropbox.com/s/zgqq9exrbwqowfk/Coursera%20modelthinkingzh%202015.pdf?dl=0)
 
+## Welcome to Game Theory(The University of Tokyo)
+
+- [Website](https://www.coursera.org/learn/game-theory-introduction)
+
 ## Ancient History of China(Peking University)
 
 - [Website](https://courses.edx.org/courses/course-v1:PekingX+02132750x+2015T1/info)

@@ -215,6 +215,10 @@
 - [网站](https://class.coursera.org/modelthinkingzh-001)
 - [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=974259)
 
+## 博弈论（东京大学）
+
+- [网站](https://www.coursera.org/learn/game-theory-introduction)
+
 ## 中国古代史（北京大学）
 
 - [网站](https://courses.edx.org/courses/course-v1:PekingX+02132750x+2015T1/info)
@@ -241,5 +245,5 @@
 
 ---
 
-- 共计学习并完成公开课39门
+- 共计学习并完成公开课40门
 - 获得认证36门
