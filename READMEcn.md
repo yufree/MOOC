@@ -231,13 +231,14 @@
 - [笔记](http://yufree.github.io/notes/tcm)
 - [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971769)
 
----
-
-# 课程纪录（进行中）
-
 ## Basic Life Support (BLS)
 
 - [网站](https://courses.edx.org/courses/course-v1:SaveALifeX+BLS101x+3T2015/info)
+- [认证](https://courses.edx.org/certificates/ce27f9090ce344afbe7b67a739ac8828)
+
+---
+
+# 课程纪录（进行中）
 
 ## 互联网历史、技术与安全（密歇根大学）
 
@@ -245,5 +246,5 @@
 
 ---
 
-- 共计学习并完成公开课40门
-- 获得认证36门
+- 共计学习并完成公开课41门
+- 获得认证37门
