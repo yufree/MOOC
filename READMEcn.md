@@ -236,15 +236,11 @@
 - [网站](https://courses.edx.org/courses/course-v1:SaveALifeX+BLS101x+3T2015/info)
 - [认证](https://courses.edx.org/certificates/ce27f9090ce344afbe7b67a739ac8828)
 
----
+## Introduction to Project Management(University of Adelaide)
 
-# 课程纪录（进行中）
-
-## 互联网历史、技术与安全（密歇根大学）
-
-- [网站](https://www.coursera.org/learn/internet-history/home/welcome)
+- [网站](https://courses.edx.org/courses/course-v1:AdelaideX+Project101x+2T2016/info)
 
 ---
 
-- 共计学习并完成公开课41门
+- 共计学习并完成公开课42门
 - 获得认证37门
