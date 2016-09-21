@@ -196,7 +196,7 @@
 ## Introduction to Linux(The Linux Foundation)
 
 - [Website](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info)
-- [Notes](http://yufree.github.io/notes/Linuxintro.html)
+- [Notes](http://yufree.github.io/notes/)
 - [Statement of Accomplishment](https://s3.amazonaws.com/verify.edx.org/downloads/d3da5e7709e74a7e885ad643261baaf3/Certificate.pdf)
 
 ## The Art of Photography(RMIT University)
@@ -222,13 +222,13 @@
 ## Ancient History of China(Peking University)
 
 - [Website](https://courses.edx.org/courses/course-v1:PekingX+02132750x+2015T1/info)
-- [Notes](http://yufree.cn/notes/historyCN.html)
+- [Notes](http://clp.yufree.cn/2016/09/20/historyCN/)
 - [Statement of Accomplishment](https://s3.amazonaws.com/verify.edx.org/downloads/ea0895f28b4f4405a3e7c4d8f431ec66/Certificate.pdf)
 
 ## Traditional Chinese Medicine and Chinese Culture(Shanghai Jiao Tong University)
 
 - [Website](https://class.coursera.org/sjtubm901-001)
-- [Notes](http://yufree.github.io/notes/tcm)
+- [Notes](http://clp.yufree.cn/2016/09/20/tcm/)
 - [Statement of Accomplishment](https://www.dropbox.com/s/6ycgcl6b8talu6o/Coursera%20sjtubm901%202015.pdf?dl=0)
 
 ## Basic Life Support
