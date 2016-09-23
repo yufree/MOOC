@@ -18,13 +18,13 @@
 
 ## Introduction to Computer Science and Programming Using Python(MIT)
 
--[Website](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/info)
--[Statement of Accomplishment](https://courses.edx.org/certificates/1de4c32e7eb247aa808e91b71e1f8e6d)
+- [Website](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/info)
+- [Statement of Accomplishment](https://courses.edx.org/certificates/1de4c32e7eb247aa808e91b71e1f8e6d)
 
 ## Introduction to Computational Thinking and Data Science(MIT)
 
--[Website](https://courses.edx.org/courses/course-v1:MITx+6.00.2x_4+3T2015/info)
--[Statement of Accomplishment](https://courses.edx.org/certificates/36b306a49b0c4f1eab62f7e66ba18d9f)
+- [Website](https://courses.edx.org/courses/course-v1:MITx+6.00.2x_4+3T2015/info)
+- [Statement of Accomplishment](https://courses.edx.org/certificates/36b306a49b0c4f1eab62f7e66ba18d9f)
 
 ## Data Analysis(Johns Hopkins University)
 
