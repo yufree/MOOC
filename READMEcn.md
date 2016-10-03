@@ -136,7 +136,7 @@
 
 - [网站](https://www.coursera.org/learn/epidemiology/outline)
 - [网站](http://sphweb.bumc.bu.edu/otlt/MPH-Modules/Modules_Menu.html)
-- [笔记](http://yufree.cn/notes/epidemiologyintro.html#)
+- [笔记](http://yufree.cn/notes/)
 
 ## 计算图形学（佐治亚理工）
 
@@ -174,7 +174,7 @@
 ## 化学品与生活（约翰霍普金斯大学）
 
 - [网站](https://class.coursera.org/chemhealth-001)
-- [笔记](http://yufree.github.io/notes/ChemHealth)
+- [笔记](http://yufree.github.io/notes/)
 - [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972340)
 
 ## 老年痴呆与认知神经失调老人护理（约翰霍普金斯大学）
@@ -196,7 +196,7 @@
 ## Linux 入门（Linux 基金会）
 
 - [网站](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info)
-- [总结](http://yufree.github.io/notes/Linuxintro.html)
+- [总结](http://yufree.github.io/notes/)
 - [认证](https://s3.amazonaws.com/verify.edx.org/downloads/d3da5e7709e74a7e885ad643261baaf3/Certificate.pdf)
 
 ## 摄影艺术（ RMIT 大学）
@@ -222,13 +222,13 @@
 ## 中国古代史（北京大学）
 
 - [网站](https://courses.edx.org/courses/course-v1:PekingX+02132750x+2015T1/info)
-- [笔记](http://yufree.cn/notes/historyCN.html)
+- [笔记](http://clp.yufree.cn/2016/09/20/historyCN/)
 - [认证](https://s3.amazonaws.com/verify.edx.org/downloads/ea0895f28b4f4405a3e7c4d8f431ec66/Certificate.pdf)
 
 ## 中医药(上海交通大学)
 
 - [网站](https://class.coursera.org/sjtubm901-001)
-- [笔记](http://yufree.github.io/notes/tcm)
+- [笔记](http://clp.yufree.cn/2016/09/20/tcm/)
 - [认证](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=971769)
 
 ## Basic Life Support (BLS)
@@ -246,5 +246,10 @@
 
 ---
 
+<<<<<<< HEAD
 - 共计学习并完成公开课43门
 - 获得认证37门
+=======
+- 共计学习并完成公开课42门
+- 获得认证37门
+>>>>>>> 1e8f4ecd5825977a11677e93eb644e2e32b8b92e

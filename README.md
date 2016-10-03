@@ -18,13 +18,13 @@
 
 ## Introduction to Computer Science and Programming Using Python(MIT)
 
--[Website](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/info)
--[Statement of Accomplishment](https://courses.edx.org/certificates/1de4c32e7eb247aa808e91b71e1f8e6d)
+- [Website](https://courses.edx.org/courses/course-v1:MITx+6.00.1x_7+3T2015/info)
+- [Statement of Accomplishment](https://courses.edx.org/certificates/1de4c32e7eb247aa808e91b71e1f8e6d)
 
 ## Introduction to Computational Thinking and Data Science(MIT)
 
--[Website](https://courses.edx.org/courses/course-v1:MITx+6.00.2x_4+3T2015/info)
--[Statement of Accomplishment](https://courses.edx.org/certificates/36b306a49b0c4f1eab62f7e66ba18d9f)
+- [Website](https://courses.edx.org/courses/course-v1:MITx+6.00.2x_4+3T2015/info)
+- [Statement of Accomplishment](https://courses.edx.org/certificates/36b306a49b0c4f1eab62f7e66ba18d9f)
 
 ## Data Analysis(Johns Hopkins University)
 
@@ -196,7 +196,7 @@
 ## Introduction to Linux(The Linux Foundation)
 
 - [Website](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info)
-- [Notes](http://yufree.github.io/notes/Linuxintro.html)
+- [Notes](http://yufree.github.io/notes/)
 - [Statement of Accomplishment](https://s3.amazonaws.com/verify.edx.org/downloads/d3da5e7709e74a7e885ad643261baaf3/Certificate.pdf)
 
 ## The Art of Photography(RMIT University)
@@ -222,13 +222,13 @@
 ## Ancient History of China(Peking University)
 
 - [Website](https://courses.edx.org/courses/course-v1:PekingX+02132750x+2015T1/info)
-- [Notes](http://yufree.cn/notes/historyCN.html)
+- [Notes](http://clp.yufree.cn/2016/09/20/historyCN/)
 - [Statement of Accomplishment](https://s3.amazonaws.com/verify.edx.org/downloads/ea0895f28b4f4405a3e7c4d8f431ec66/Certificate.pdf)
 
 ## Traditional Chinese Medicine and Chinese Culture(Shanghai Jiao Tong University)
 
 - [Website](https://class.coursera.org/sjtubm901-001)
-- [Notes](http://yufree.github.io/notes/tcm)
+- [Notes](http://clp.yufree.cn/2016/09/20/tcm/)
 - [Statement of Accomplishment](https://www.dropbox.com/s/6ycgcl6b8talu6o/Coursera%20sjtubm901%202015.pdf?dl=0)
 
 ## Basic Life Support
@@ -239,9 +239,12 @@
 ## Introduction to Project Management(University of Adelaide)
 
 - [Website](https://courses.edx.org/courses/course-v1:AdelaideX+Project101x+2T2016/info)
+<<<<<<< HEAD
 
 ## Systems Thinking In Public Health (Johns Hopkins University)
 
 - [Website](https://www.coursera.org/learn/systems-thinking/home/welcome)
 
 
+=======
+>>>>>>> 1e8f4ecd5825977a11677e93eb644e2e32b8b92e
