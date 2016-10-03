@@ -239,3 +239,9 @@
 ## Introduction to Project Management(University of Adelaide)
 
 - [Website](https://courses.edx.org/courses/course-v1:AdelaideX+Project101x+2T2016/info)
+
+## Systems Thinking In Public Health (Johns Hopkins University)
+
+- [Website](https://www.coursera.org/learn/systems-thinking/home/welcome)
+
+

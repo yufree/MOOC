@@ -240,7 +240,11 @@
 
 - [网站](https://courses.edx.org/courses/course-v1:AdelaideX+Project101x+2T2016/info)
 
+## Systems Thinking In Public Health (Johns Hopkins University)
+
+- [Website](https://www.coursera.org/learn/systems-thinking/home/welcome)
+
 ---
 
-- 共计学习并完成公开课42门
+- 共计学习并完成公开课43门
 - 获得认证37门
