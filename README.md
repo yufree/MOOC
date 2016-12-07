@@ -243,5 +243,10 @@
 ## Systems Thinking In Public Health (Johns Hopkins University)
 
 - [Website](https://www.coursera.org/learn/systems-thinking/home/welcome)
+- [Notes](http://yufree.cn/notes/section-23.html)
 
+## Introduction to Complexity（SFI）
 
+- [Website](https://www.complexityexplorer.org/courses/59-introduction-to-complexity-fall-2016)
+- [Notes](http://yufree.cn/notes/section-25.html)
+- [Statement of Accomplishment](https://www.dropbox.com/s/dpn05o8moy9zn3v/certificate.pdf?dl=0)

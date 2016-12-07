@@ -242,9 +242,16 @@
 
 ## Systems Thinking In Public Health (Johns Hopkins University)
 
-- [Website](https://www.coursera.org/learn/systems-thinking/home/welcome)
+- [网站](https://www.coursera.org/learn/systems-thinking/home/welcome)
+- [笔记](http://yufree.cn/notes/section-23.html)
+
+## Introduction to Complexity（SFI）
+
+- [网站](https://www.complexityexplorer.org/courses/59-introduction-to-complexity-fall-2016)
+- [笔记](http://yufree.cn/notes/section-25.html)
+- [认证](https://www.dropbox.com/s/dpn05o8moy9zn3v/certificate.pdf?dl=0)
 
 ---
 
-- 共计学习并完成公开课43门
-- 获得认证37门
+- 共计学习并完成公开课44门
+- 获得认证38门
