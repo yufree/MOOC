@@ -250,3 +250,13 @@
 - [Website](https://www.complexityexplorer.org/courses/59-introduction-to-complexity-fall-2016)
 - [Notes](http://yufree.cn/notes/section-25.html)
 - [Statement of Accomplishment](https://www.dropbox.com/s/dpn05o8moy9zn3v/certificate.pdf?dl=0)
+
+## Game Theroy I (Stanford University, The University of British Columbia)
+
+- [Website](https://www.coursera.org/learn/game-theory-1/home/welcome)
+- [Notes](http://yufree.cn/notes/section-24.html)
+
+## Game Theory II: Advanced Applications (Stanford University, The University of British Columbia)
+
+- [Website](https://www.coursera.org/learn/game-theory-2)
+- [Notes](http://yufree.cn/notes/section-24.html)

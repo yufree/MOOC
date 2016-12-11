@@ -251,7 +251,17 @@
 - [笔记](http://yufree.cn/notes/section-25.html)
 - [认证](https://www.dropbox.com/s/dpn05o8moy9zn3v/certificate.pdf?dl=0)
 
+## Game Theroy I（斯坦福大学&英属哥伦比亚大学）
+
+- [网站](https://www.coursera.org/learn/game-theory-1/home/welcome)
+- [笔记](http://yufree.cn/notes/section-24.html)
+
+## Game Theory II: Advanced Applications（斯坦福大学&英属哥伦比亚大学）
+
+- [网站](https://www.coursera.org/learn/game-theory-2)
+- [笔记](http://yufree.cn/notes/section-24.html)
+
 ---
 
-- 共计学习并完成公开课44门
+- 共计学习并完成公开课46门
 - 获得认证38门
