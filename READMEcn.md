@@ -261,7 +261,11 @@
 - [网站](https://www.coursera.org/learn/game-theory-2)
 - [笔记](http://yufree.cn/notes/section-24.html)
 
+## PH559x Causal Diagrams: Draw Your Assumptions Before Your Conclusions (Harvard University)
+
+- [网站](https://courses.edx.org/courses/course-v1:HarvardX+PH559x+3T2017/course/)
+
 ---
 
-- 共计学习并完成公开课46门
+- 共计学习并完成公开课47门
 - 获得认证38门
