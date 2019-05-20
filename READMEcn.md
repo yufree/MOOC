@@ -265,7 +265,21 @@
 
 - [网站](https://courses.edx.org/courses/course-v1:HarvardX+PH559x+3T2017/course/)
 
+## Financial Markets（Yale University）
+
+- [网站](http://www.econ.yale.edu/~shiller/course/252/index.htm)
+- [笔记](https://yufree.github.io/datadown/section-15.html)
+
+## Crash Course: Economics
+
+- [网站](https://thecrashcourse.com/courses/economics)
+- [笔记](https://bookdown.org/yufree/lifeguide/section-6.html#section-6.4)
+
+## Crash Course: Ecology
+
+- [网站](https://thecrashcourse.com/courses/ecology)
+
 ---
 
-- 共计学习并完成公开课47门
+- 共计学习并完成公开课50门
 - 获得认证38门
