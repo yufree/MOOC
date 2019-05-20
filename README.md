@@ -264,3 +264,18 @@
 ## PH559x Causal Diagrams: Draw Your Assumptions Before Your Conclusions (Harvard University)
 
 - [Website](https://courses.edx.org/courses/course-v1:HarvardX+PH559x+3T2017/course/)
+
+## Financial Markets（Yale University）
+
+- [Website](http://www.econ.yale.edu/~shiller/course/252/index.htm)
+- [Notes](https://yufree.github.io/datadown/section-15.html)
+
+## Crash Course: Economics
+
+- [Website](https://thecrashcourse.com/courses/economics)
+- [Notes](https://bookdown.org/yufree/lifeguide/section-6.html#section-6.4)
+
+## Crash Course: Ecology
+
+- [Website](https://thecrashcourse.com/courses/ecology)
+
