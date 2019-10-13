@@ -3,18 +3,18 @@
 ## Machine Learning(Stanford University)
 
 - [Website](https://class.coursera.org/ml-007)
-- [Statement of Accomplishment](https://www.dropbox.com/s/nn82ls604iowhjv/Coursera%20ml%202015.pdf?dl=0)
+- [Statement of Accomplishment](https://github.com/yufree/MOOC/raw/master/MOOC/Coursera%20ml%202015.pdf)
 
 ## Statistical Learning(Stanford University)
 
 - [Website](https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/info)
 - [Notes](http://cos.name/cn/topic/152762)
-- [Statement of Accomplishment](https://www.dropbox.com/s/s81lpi31zqrqfax/EdxslCertificate.pdf?dl=0)
+- [Statement of Accomplishment](https://github.com/yufree/MOOC/raw/master/MOOC/EdxslCertificate.pdf)
 
 ## Scalable Machine Learning(UC Berkeley)
 
 - [Website](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info)
-- [Statement of Accomplishment](https://www.dropbox.com/s/7ed5j2uiems4iio/EdxsmlCertificate.pdf?dl=0)
+- [Statement of Accomplishment](https://github.com/yufree/MOOC/raw/master/MOOC/EdxsmlCertificate.pdf)
 
 ## Introduction to Computer Science and Programming Using Python(MIT)
 
@@ -31,7 +31,7 @@
 - [Wedsite](https://www.coursera.org/course/dataanalysis)
 - [Github repo](https://github.com/jtleek/dataanalysis)
 - [Notes](http://yufree.github.io/blogcn/2013/08/21/da-coursera.html)
-- [Statement of Accomplishment](https://www.dropbox.com/s/rt9edgxqtnolvb6/Coursera%20dataanalysis%202015.pdf?dl=0)
+- [Statement of Accomplishment](https://github.com/yufree/MOOC/raw/master/MOOC/Coursera%20dataanalysis%202015.pdf)
 
 ## Data Science Specialization(Johns Hopkins University)
 
@@ -141,52 +141,52 @@
 ## Computational Photography(Georgia Institute of Technology)
 
 - [Website](https://class.coursera.org/compphoto-001)
-- [Statement of Accomplishment](https://www.dropbox.com/s/zd8htgmi299c3az/Coursera%20compphoto%202015.pdf?dl=0)
+- [Statement of Accomplishment](https://github.com/yufree/MOOC/raw/master/MOOC/Coursera%20compphoto%202015.pdf)
 
 ## Computing for Data Analysis(Johns Hopkins University)
 
 - [Website](https://class.coursera.org/compdata-003)
-- [Statement of Accomplishment](https://www.dropbox.com/s/qrswsd5f2525wng/Coursera%20compdata%202015.pdf?dl=0)
+- [Statement of Accomplishment](https://github.com/yufree/MOOC/raw/master/MOOC/Coursera%20compdata%202015.pdf)
 
 ## Case-Based Introduction to Biostatistics(Johns Hopkins University)
 
 - [Website](https://class.coursera.org/casebasedbiostat-001)
-- [Statement of Accomplishment](https://www.dropbox.com/s/2lxs6czlw1drwcz/Coursera%20casebasedbiostat%202015.pdf?dl=0)
+- [Statement of Accomplishment](https://github.com/yufree/MOOC/raw/master/MOOC/Coursera%20casebasedbiostat%202015.pdf)
 
 ## Mathematical Biostatistics Boot Camp I(Johns Hopkins University)
 
 - [Website](https://class.coursera.org/biostats-002)
 - [Github repo](https://github.com/bcaffo/Caffo-Coursera)
-- [Statement of Accomplishment](https://www.dropbox.com/s/keg4c2nhu1khpe1/Coursera%20biostats%202015.pdf?dl=0)
+- [Statement of Accomplishment](https://github.com/yufree/MOOC/raw/master/MOOC/Coursera%20biostats%202015.pdf)
 
 ## Mathematical Biostatistics Boot Camp II(Johns Hopkins University)
 
 - [Website](https://class.coursera.org/biostats2-002)
 - [Github repo](https://github.com/bcaffo/MathematicsBiostatisticsBootCamp2)
-- [Statement of Accomplishment](https://www.dropbox.com/s/0yn25sq5y7ev8xx/Coursera%20biostats2%202015.pdf?dl=0)
+- [Statement of Accomplishment](https://github.com/yufree/MOOC/raw/master/MOOC/Coursera%20biostats2%202015.pdf)
 
 ## Bioinformatics: Life Sciences on Your Computer(Johns Hopkins University)
 
 - [Website](https://class.coursera.org/bioinform-001)
 - [Notes](http://rpubs.com/yufree/Bioinformatics)
-- [Statement of Accomplishment](https://www.dropbox.com/s/ykqcrgx3htmpnh0/Coursera%20bioinform%202015.pdf?dl=0)
+- [Statement of Accomplishment](https://github.com/yufree/MOOC/raw/master/MOOC/Coursera%20bioinform%202015.pdf)
 
 ## Chemicals and Health(Johns Hopkins University)
 
 - [Website](https://class.coursera.org/chemhealth-001)
 - [Notes](http://yufree.github.io/notes/ChemHealth)
-- [Statement of Accomplishment](https://www.dropbox.com/s/tbybgnip0ut5h9y/Coursera%20chemhealth%202015.pdf?dl=0)
+- [Statement of Accomplishment](https://github.com/yufree/MOOC/raw/master/MOOC/Coursera%20chemhealth%202015.pdf)
 
 ## Living with Dementia: Impact on Individuals, Caregivers, Communities and Societies(Johns Hopkins University)
 
 - [Website](https://class.coursera.org/dementiacare-001)
-- [Statement of Accomplishment](https://www.dropbox.com/s/c4vwz7hq2vpgcm6/Coursera%20dementiacare%202015.pdf?dl=0)
+- [Statement of Accomplishment](https://github.com/yufree/MOOC/raw/master/MOOC/Coursera%20dementiacare%202015.pdf)
 
 ## Major Depression in the Population: A Public Health Approach(Johns Hopkins University)
 
 - [Website](https://class.coursera.org/pmhdepression-001)
 - [Notes](http://rpubs.com/yufree/depression)
-- [Statement of Accomplishment](https://www.dropbox.com/s/obk97ss07mi9hec/Coursera%20pmhdepression%202015.pdf?dl=0)
+- [Statement of Accomplishment](https://github.com/yufree/MOOC/raw/master/MOOC/Coursera%20pmhdepression%202015.pdf)
 
 ## Introduction to Psychology(Yale University)
 
@@ -202,7 +202,7 @@
 ## The Art of Photography(RMIT University)
 
 - [Website](https://www.open2study.com/courses/the-art-of-photography)
-- [Statement of Accomplishment](https://www.dropbox.com/s/rlojogmiqtok0r7/Subject_Certificate_03_March_2015.pdf?dl=0)
+- [Statement of Accomplishment](https://github.com/yufree/MOOC/raw/master/MOOC/Subject_Certificate_03_March_2015.pdf)
 
 ## Writing in the Sciences(Stanford University)
 
@@ -210,10 +210,10 @@
 - [Notes](http://yufree.github.com/blogcn/2013/11/20/write-in-english.html)
 - [Notes](http://yufree.github.io/blogcn/2013/11/20/write-in-english-e.html)
 
-## Model Thinking(University of Michigan) 
+## Model Thinking(University of Michigan)
 
 - [Website](https://class.coursera.org/modelthinkingzh-001)
-- [Statement of Accomplishment](https://www.dropbox.com/s/zgqq9exrbwqowfk/Coursera%20modelthinkingzh%202015.pdf?dl=0)
+- [Statement of Accomplishment](https://github.com/yufree/MOOC/raw/master/MOOC/Coursera%20modelthinkingzh%202015.pdf)
 
 ## Welcome to Game Theory(The University of Tokyo)
 
@@ -229,7 +229,7 @@
 
 - [Website](https://class.coursera.org/sjtubm901-001)
 - [Notes](http://clp.yufree.cn/2016/09/20/tcm/)
-- [Statement of Accomplishment](https://www.dropbox.com/s/6ycgcl6b8talu6o/Coursera%20sjtubm901%202015.pdf?dl=0)
+- [Statement of Accomplishment](https://github.com/yufree/MOOC/raw/master/MOOC/Coursera%20sjtubm901%202015.pdf)
 
 ## Basic Life Support
 
@@ -249,7 +249,7 @@
 
 - [Website](https://www.complexityexplorer.org/courses/59-introduction-to-complexity-fall-2016)
 - [Notes](http://yufree.cn/notes/section-25.html)
-- [Statement of Accomplishment](https://www.dropbox.com/s/dpn05o8moy9zn3v/certificate.pdf?dl=0)
+- [Statement of Accomplishment](https://github.com/yufree/MOOC/raw/master/MOOC/certificate.pdf)
 
 ## Game Theroy I (Stanford University, The University of British Columbia)
 

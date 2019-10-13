@@ -249,7 +249,7 @@
 
 - [网站](https://www.complexityexplorer.org/courses/59-introduction-to-complexity-fall-2016)
 - [笔记](http://yufree.cn/notes/section-25.html)
-- [认证](https://www.dropbox.com/s/dpn05o8moy9zn3v/certificate.pdf?dl=0)
+- [认证](https://github.com/yufree/MOOC/raw/master/MOOC/certificate.pdf)
 
 ## Game Theroy I（斯坦福大学&英属哥伦比亚大学）
 
