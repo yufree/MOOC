@@ -254,12 +254,12 @@
 ## Game Theroy I (Stanford University, The University of British Columbia)
 
 - [Website](https://www.coursera.org/learn/game-theory-1/home/welcome)
-- [Notes](http://yufree.cn/notes/section-24.html)
+- [Notes](https://yufree.github.io/datadown/game.html)
 
 ## Game Theory II: Advanced Applications (Stanford University, The University of British Columbia)
 
 - [Website](https://www.coursera.org/learn/game-theory-2)
-- [Notes](http://yufree.cn/notes/section-24.html)
+- [Notes](https://yufree.github.io/datadown/game.html)
 
 ## PH559x Causal Diagrams: Draw Your Assumptions Before Your Conclusions (Harvard University)
 
@@ -268,7 +268,12 @@
 ## Financial Markets（Yale University）
 
 - [Website](http://www.econ.yale.edu/~shiller/course/252/index.htm)
-- [Notes](https://yufree.github.io/datadown/section-15.html)
+- [Notes](https://yufree.github.io/datadown/qi.html)
+
+## Network Science (Albert-László Barabási)
+
+- [Website](https://networksciencebook.com/)
+- [Notes](https://yufree.github.io/datadown/neta.html)
 
 ## Crash Course: Economics
 
