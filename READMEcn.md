@@ -254,12 +254,12 @@
 ## Game Theroy I（斯坦福大学&英属哥伦比亚大学）
 
 - [网站](https://www.coursera.org/learn/game-theory-1/home/welcome)
-- [笔记](http://yufree.cn/notes/section-24.html)
+- [笔记](https://yufree.github.io/datadown/game.html)
 
 ## Game Theory II: Advanced Applications（斯坦福大学&英属哥伦比亚大学）
 
 - [网站](https://www.coursera.org/learn/game-theory-2)
-- [笔记](http://yufree.cn/notes/section-24.html)
+- [笔记](https://yufree.github.io/datadown/game.html)
 
 ## PH559x Causal Diagrams: Draw Your Assumptions Before Your Conclusions (Harvard University)
 
@@ -268,7 +268,12 @@
 ## Financial Markets（Yale University）
 
 - [网站](http://www.econ.yale.edu/~shiller/course/252/index.htm)
-- [笔记](https://yufree.github.io/datadown/section-15.html)
+- [笔记](https://yufree.github.io/datadown/qi.html)
+
+## Network Science (Albert-László Barabási)
+
+- [网站](https://networksciencebook.com/)
+- [笔记](https://yufree.github.io/datadown/neta.html)
 
 ## Crash Course: Economics
 
@@ -281,5 +286,5 @@
 
 ---
 
-- 共计学习并完成公开课50门
+- 共计学习并完成公开课51门
 - 获得认证38门
