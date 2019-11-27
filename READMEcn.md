@@ -275,6 +275,10 @@
 - [网站](https://networksciencebook.com/)
 - [笔记](https://yufree.github.io/datadown/neta.html)
 
+## Interfacing with the Raspberry Pi (University of California, Irvine)
+
+- [网站](https://www.coursera.org/learn/raspberry-pi-interface/home/welcome)
+
 ## Crash Course: Economics
 
 - [网站](https://thecrashcourse.com/courses/economics)
